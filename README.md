@@ -1,2 +1,2 @@
 # HSE_Selenium_example
-Example of organizing Selenium test code into levels
+Eclipse project, demonstrationg organization of Selenium test code into levels
